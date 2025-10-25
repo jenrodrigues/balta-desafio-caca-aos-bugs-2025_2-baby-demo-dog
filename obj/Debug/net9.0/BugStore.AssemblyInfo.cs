@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BugStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+937e0fe70174be51943c51f077bd5cff38147498")]
 [assembly: System.Reflection.AssemblyProductAttribute("BugStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BugStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

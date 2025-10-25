@@ -151,3 +151,4 @@ E:\ArquivosJenifer\DesafioBalta2025\balta-desafio-caca-aos-bugs-2025_2-baby-demo
 E:\ArquivosJenifer\DesafioBalta2025\balta-desafio-caca-aos-bugs-2025_2-baby-demo-dog\src\bin\Debug\net9.0\MediatR.dll
 E:\ArquivosJenifer\DesafioBalta2025\balta-desafio-caca-aos-bugs-2025_2-baby-demo-dog\src\bin\Debug\net9.0\MediatR.Contracts.dll
 E:\ArquivosJenifer\DesafioBalta2025\balta-desafio-caca-aos-bugs-2025_2-baby-demo-dog\src\bin\Debug\net9.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\ArquivosJenifer\DesafioBalta2025\balta-desafio-caca-aos-bugs-2025_2-baby-demo-dog\src\obj\Debug\net9.0\BugStore.sourcelink.json
